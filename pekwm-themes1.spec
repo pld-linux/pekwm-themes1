@@ -7,7 +7,7 @@ Release:	1
 License:	GPL
 Group:		Themes
 Source0:	%{name}.tar.bz2
-# Source0-md5:	d41d8cd98f00b204e9800998ecf8427e
+# Source0-md5:	a1144f9c2749cd59cc43cc752327c5be
 Buildarch:	noarch
 Requires:	pekwm
 Obsoletes:	pekwm-themes-pack1
