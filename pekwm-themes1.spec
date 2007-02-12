@@ -1,6 +1,6 @@
 %define _dname	%(echo %{name} | cut -d- -f1)
 Summary:	Pack of themes for pekwm
-Summary(pl):	Zestaw motywów dla pekwm
+Summary(pl.UTF-8):   Zestaw motywÃ³w dla pekwm
 Name:		pekwm-themes1
 Version:	1.0
 Release:	1
@@ -33,8 +33,8 @@ old_unix-2- elk <elk@cowmob.nu>
 panther - A port by Dustin Massop<dmassop@engr.uvic.ca>
 retro - ported from xfce4 by <texray@gmx.de>
 
-%description -l pl
-Zestaw motywów dla pekwm:
+%description -l pl.UTF-8
+Zestaw motywÃ³w dla pekwm:
 Blue-Boxish - Hewbert <josh@hewbert.com>
 Blue_Glass - Tilman Sauerbeck <tilman@code-monkey.de>
 BrushedApe - Brian Harbron <harbron@uiuc.edu>
